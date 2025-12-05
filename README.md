@@ -114,9 +114,9 @@ Password: admin123
 
 ---
 
-## Deployment
+## Deployment Link
 
-Deploy to Vercel with one click or use the CLI:
+https://stegosecure.vercel.app/
 
 ---
 
