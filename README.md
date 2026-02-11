@@ -1,4 +1,4 @@
-# StegoShield
+# StegoSecure
 
 This project is a simple full‑stack steganography tool built with Node.js, Express, and a lightweight frontend. It allows users to hide and extract secret messages inside images.
 
